@@ -1,6 +1,8 @@
 @import url(style/header.css);
+@import url(style/banner.css);
+
 :root{
-    --cor-de-fundo: #000000;
+    --cor-de-fundo: #ffffff;
     --branco: #d82424;
     --laranja: #EB9B00;
     --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
